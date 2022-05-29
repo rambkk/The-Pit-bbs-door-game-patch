@@ -1,7 +1,8 @@
 This patch/mod is a Tribute to James R. Berry, the creator of The Pit.
+The Pit - BBS door game by Midas Touch Software, James R. Berry
 James is gone but not forgotten. 
 
-The Pit, being one of my all time favorites, I have decided to work on giving a new life to this after seeing some people requesting for this.
+The Pit, being one of my all time favorites, I have decided to work on giving a new life to this after also see some people asking publicly.
 
 Please check this Tribute: https://michaelduff.net/2011/06/02/a-tribute-to-james-royal-berry-1967-1999/
 
