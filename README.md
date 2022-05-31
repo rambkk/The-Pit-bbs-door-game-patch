@@ -20,8 +20,25 @@ The Pit bbs door game and the graphical terminal can be downloaded from https://
 
 Please note that I have not formatted the code properly. I have tested this code with the a86 compiler from Eric Isaacson which is available at http://eji.com/a86/
 
+RA/ELEBBS setup THE PIT 4.17 door with the following Menu item OptData (change the directory name as appropriate) \
+Note that the \*M could be important here as it should free up more memory.
+```bat
+command.com /c \ra\runpit.bat *M
+```
+The content of runpit.bat can be found in The Pit instructions document. Mine is very simple:
+```bat
+ECHO OFF
+CLS
+CD PIT4
+PIT
+CD ..
+```
 
-
+For setting up The Pit, setup normally and from control.exe, I am using the following:
+```
+Door File Setting -> BBS Door File Type -> GENERIC Door File DOOR.SYS
+Path To Door File Type -> \ra\
+```
 
 
 
