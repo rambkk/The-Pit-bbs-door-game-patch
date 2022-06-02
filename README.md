@@ -4,10 +4,10 @@ REQUEST: If you use this patch, kindly spend at least $23 for any good cause, de
 (same price as registering the game back in 1995)
 (drop me a note please : -) 
 ram@pluslab.com www.pluslab.com github @rambkk
-------------------------------------------------------------------------------=--------------------------
+---------------------------------------------------------------------------------------------------------
 ```
 
-This patch/mod is a Tribute to James R. Berry, the creator of The Pit.
+This patch/mod for The Pit 4.17 is a Tribute to James R. Berry, the creator of The Pit.
 The Pit - BBS door game by Midas Touch Software, James R. Berry
 James is gone but not forgotten. 
 
