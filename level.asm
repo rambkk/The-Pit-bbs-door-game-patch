@@ -30,7 +30,7 @@
 
 
 ; The highest level a player can have is 499 with highest score of
-; 49,063,999 'while playing'. 
+; 49,063,999 after a battle.  
 
 ;;;;;;;;;;;; FUNCTION STARTS
 ;; This will function will not run
@@ -54,7 +54,7 @@
 
 ;x86 16-bit Assembly integer division
 ; 32-bit dividend and 16-bit divisor
-; Dividend format : DXAX where DX is the major part of the divisor and AX is the minor
+; Dividend format : DXAX where DX is the major part of the dividend and AX is the minor
 ; CX the divisor
 ;Result:
 ; AX - division result
