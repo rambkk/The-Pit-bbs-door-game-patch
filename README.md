@@ -49,6 +49,11 @@ Door File Setting -> BBS Door File Type -> GENERIC Door File DOOR.SYS
 Path To Door File Type -> \ra\
 ```
 
+### PTERM.EXE Graphic Terminal notes
+For running the PTERM.EXE graphic terminal for the game, I have tested only with Telix. \
+I had to exit Telix without hanging-up at the "Please activate your GRAPHICS TERMINAL now ...." to start the pterm client. \
+(Tried the Telix external protocol settings but this did not work well.) \
+This method could actually work with any terminal emulation program which supports exiting without hanging-up.
 
 
 
