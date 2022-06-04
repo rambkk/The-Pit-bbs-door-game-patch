@@ -3,7 +3,7 @@
 REQUEST: If you use this patch, kindly spend at least $23 for any good cause, dedicating to all wellbeing
 (same price as registering the game back in 1995)
 (drop me a note please : -) 
-ram@pluslab.com www.pluslab.com github @rambkk
+ram@pluslab.com www.pluslab.net github @rambkk
 ---------------------------------------------------------------------------------------------------------
 ```
 
