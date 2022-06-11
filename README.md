@@ -6,7 +6,7 @@ REQUEST: If you use this patch, kindly spend at least $23 for any good cause, de
 ram@pluslab.com www.pluslab.net github @rambkk
 ---------------------------------------------------------------------------------------------------------
 ```
-https://pluslab.net/the-pit-4-17-bbs-door-patch/
+https://pluslab.net/blog/the-pit-4-17-bbs-door-patch/
 
 This patch/mod for The Pit 4.17 is a Tribute to James R. Berry, the creator of The Pit.
 The Pit - BBS door game by Midas Touch Software, James R. Berry
